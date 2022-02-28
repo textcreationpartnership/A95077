@@ -1,0 +1,280 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true narration of the most observable passages, in and at the late seige of Plymouth, from the fifteenth day of September 1643, untill the twenty fift [sic] of December following. Attested from thence under the hands of the most credible persons: wherein is manifested to the world the handy-work of God, and his gracious assistance to the united forces of that towne and garrison. Together with an exact map and description of the town and fortifications thereof; with the approaches of the enemie. As also the summons of the cavaliers to the major and governour of the said towne. And Prince Maurice his warrant to the countrey since the raising of the seige. Imprimatur Iohn White.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 34 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95077</idno>
+            <idno type="STC">Wing T2763</idno>
+            <idno type="STC">Thomason E31_15</idno>
+            <idno type="STC">ESTC R11842</idno>
+            <idno type="EEBO-CITATION">99859147</idno>
+            <idno type="PROQUEST">99859147</idno>
+            <idno type="VID">111213</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95077)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111213)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 6:E31[15])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true narration of the most observable passages, in and at the late seige of Plymouth, from the fifteenth day of September 1643, untill the twenty fift [sic] of December following. Attested from thence under the hands of the most credible persons: wherein is manifested to the world the handy-work of God, and his gracious assistance to the united forces of that towne and garrison. Together with an exact map and description of the town and fortifications thereof; with the approaches of the enemie. As also the summons of the cavaliers to the major and governour of the said towne. And Prince Maurice his warrant to the countrey since the raising of the seige. Imprimatur Iohn White.</title>
+                  <author>Maurice, Prince, 1620-1652.</author>
+                  <author>Hollar, Wenceslaus, 1607-1677.</author>
+               </titleStmt>
+               <extent>[2], 20 p. : ill., map.  </extent>
+               <publicationStmt>
+                  <publisher>Printed by L. N. for Francis Eglesfeild, and are to be sold at the signe of the Marygold in Pauls Church-yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Prince Maurice his warrant: p. 19.</note>
+                  <note>This copy has the rare map by Hollar.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns.</term>
+               <term>Plymouth (England) --  History --  Siege, 1643.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2010-02</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="map">
+            <pb facs="tcp:111213:1"/>
+            <p>
+               <figure>
+                  <figDesc>view of Plymouth</figDesc>
+                  <head>A TRVE MAPP AND DESCRIPTION OF THE TOW<g ref="char:EOLhyphen"/>ne of Plymouth and the Fortifications thereof, with the wor<g ref="char:EOLhyphen"/>kes and approaches of the Enemy, at the laſt <hi>Seige;</hi> A<hi rend="sup">o</hi> 1643.</head>
+               </figure>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:111213:2" rendition="simple:additions"/>
+            <p>A True NARRATION Of the moſt Obſervable Paſſages, in and at the late Seige of PLYMOUTH, from the fifteenth day of <hi>September</hi> 1643, untill the twenty fift of <hi>December</hi> following. Atteſted from thence under the hands of the moſt Credible Perſons: Wherein is manifeſted to the World the handy-work of God, and his gracious aſſiſtance to the United Forces of that Towne and Garriſon.</p>
+            <p>Together with an exact Map and Deſcription of the Town and Fortifications thereof; with the approaches of the Enemie.</p>
+            <p>As alſo the Summons of the Cavaliers to the Major and Governour of the ſaid Towne.</p>
+            <p>And Prince MAURICE his Warrant to the Countrey ſince the raiſing of the Seige.</p>
+            <q>
+               <floatingText xml:lang="lat">
+                  <body>
+                     <div type="imprimatur">
+                        <p>Imprimatur</p>
+                        <closer>
+                           <signed>IOHN WHITE.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>LONDON Printed by <hi>L. N.</hi> for <hi>Francis Eglesfeild,</hi> and are to be ſold at the ſigne of the Marygold in Pauls Church-yard. 1644.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb n="1" facs="tcp:111213:3"/>
+            <head>A true Narration of the moſt obſervable Paſſa<g ref="char:EOLhyphen"/>ges, in, and at the late Siege of <hi>Plymouth;</hi> from the 15 of September, 1643, Untill the 25 of De<g ref="char:EOLhyphen"/>cember following, &amp;c.</head>
+            <p>
+               <seg rend="decorInit">A</seg>Fter Colonell <hi>Wardlaw,</hi> Commander in chiefe, and Colonell <hi>Gould,</hi> with the 600 men, ſhipt at Portſmouth, about the 15 of September, for the reliefe of this Towne, had ſtopt in Torbay; and finding Dartmouth beſieged, left 100 men there for the ſtrengthning of that Garriſon: we arrived at Plymouth the laſt of September; (which Towne had been blockt up by horſe ſo that no proviſions was brought in from the Countrey for ſix weeks before) and having refreſhed our men, and mounted ſome 150 of them on horſeback, the enemy having only one regiment of foot (beſides their horſe) lying before us at their quar<g ref="char:EOLhyphen"/>ter at Plymſtoke, and keeping a conſtant guard at Howe, cloſe under Mount Stanford, conſiſting of about three hundred foot and a Troop of horſe, which fort they inten<g ref="char:EOLhyphen"/>ded firſt to aſſault: about nine dayes after our arrivall, the eighth of October, we put over ſome three hundred men before day in boats, to Mount Stanford, and at breake of day fell on and ſurpriſed the enemies guard at Howe, took Captaine <hi>Slowley,</hi> one Enſigne, fifty two common ſouldi<g ref="char:EOLhyphen"/>ers
+<pb n="2" facs="tcp:111213:4"/>priſoners, two Colours, and three barrels of powder, and put the reſt to flight, with the loſſe only of two men of our ſide: about the ſame time we ſecured ſome Malig<g ref="char:EOLhyphen"/>nants in the Towne, and ſent up three of them to the Par<g ref="char:EOLhyphen"/>liament.</p>
+            <p>By this time the Enemy had taken Dart mouth, and was on his march with his whole army, to ſit downe before us; and we receiving intelligence that the enemy kept a guard of two Troops of Horſe at <hi>Knockers-hole,</hi> about two miles from our Workes, the fifteenth of October we ſallied out with our Horſe and two hundred Muſquetiers, ſurpri<g ref="char:EOLhyphen"/>zed that guard, and had taken twenty or thirty priſoners, but about ſixteen of our horſe purſued the reſt that fled ſo faſt, that their orders for retreat could not overtake them, engaged themſelves too farre, and returning loaden with prey and priſoners, other Troopes of the Enemy comming from their quarters on <hi>Roborrow-Downe,</hi> to anſwer the A<g ref="char:EOLhyphen"/>larme, met with our purſuers and took them all, ſave only Major <hi>Searle</hi> charged thorow them and eſcaped, Lieute<g ref="char:EOLhyphen"/>nant <hi>Chaſing,</hi> with fourteen more, were taken, and after e<g ref="char:EOLhyphen"/>ſcaped out of priſon, and returned to us, ſave only two or three.</p>
+            <p>And now the Enemy being ſetled in his quarters, at Plympton, Plymſtoke, Cauſands, Buckland, Tamerton, &amp;c. With an army conſiſting of five Regiments of Horſe, &amp; nine Regiments of foot, brought over land from Yalme, thirteene fiſher-boats, into Plunket-Mills Bay, over againſt Prince Rock, with an intention as we conceived to land men on Cat-downe in the night, which they did not at<g ref="char:EOLhyphen"/>tempt, but ſet on Mount Stanford in good earneſt: and the twenty one of October in the night, they raiſed a ſquare Work within Piſtoll ſhot of our Fort of Stanford, on the
+<pb n="3" facs="tcp:111213:4"/>North-eaſt ſide, and from thence were drawing of a Line with Halfe Moones to ſurround the ſaid Fort, thereby to hinder our reliefes from comming unto it. To prevent which, the ſame day we fell on the Enemy in their New Worke they had raiſed, with all the diſadvantage on our part that poſſibly could be imagined, expoſing our open naked bodies to an Enemy within a ſtrength, and aſſiſted by their Horſe, who much anoyed us, we having none of our Horſe to aſſiſt us, nor could have, the Sea being be<g ref="char:EOLhyphen"/>tweene us and them; after long skirmiſh and diverſe re<g ref="char:EOLhyphen"/>pulſes, at laſt we got their Halfe Moone, and after three houres hot fight, their cloſe VVorke, and in it Captaine <hi>White,</hi> and fifty other priſoners: in which Work we put a Guard that night of thirty Muſquetires, commanded by an En<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>igne by whoſe treachery or cowardize, the Enemy falling on that night, the ſaid Guard quitted the Worke to them, without giving any Alarme to the Fort, for which he was ſhot to death ſhortly after; which coſt us a new la<g ref="char:EOLhyphen"/>bour the next day, with farre greater difficulty and danger then before: the Enemy having of their Horſe and Foot ready to ſecond their guard in their new regained Worke, which yet we againe made ours, after the loſſe on our part of Captaine <hi>Corbet,</hi> who was ſhot in the Forehead as wee fell on upon their Work, and three other of our Captaines were alſo wounded this day and the day before; and wee had in both fights ſome twenty men killed, and above one hundred wounded, of whom many are ſince recovered. The Enemy loſt ſix Commanders whoſe names were concealed from us, and many men, beſides thoſe taken priſoners.</p>
+            <p>After we had gained the Enemies Worke the ſecond time we ſlighted it: but to prevent the like approaches, in regard Mount Stanford being a ſmall Worke, and very
+<pb n="4" facs="tcp:111213:5"/>untenable of it ſelfe, much leſſe to keepe ſo large a circuit of grounds as it was built to defend, we were neceſſitated to draw a Line of Communication both on the Eaſt and Weſt ſide of the Worke, to maintaine a long ridge of ground, with Halfe Moones at each end of the Line, which we defended diverſe dayes with extraordinary duty to our men, and divers skirmiſhes with the Enemy, till the third of November, when the Enemy planted their Batteries within Piſtoll ſhot of our Forts; and on the fifth of No<g ref="char:EOLhyphen"/>vember battered our Worke with two hundred Demy-Cannon and whole Culverin ſhot, beſides other ſmal<g ref="char:EOLhyphen"/>ler Cannon that continually played on us, and flank<g ref="char:EOLhyphen"/>ed our Line from Oſan-Hill, whereby breach was made in the Fort at ſeverall places, and the Lieutenant and ſome Gunners of the Fort ſlaine: the breach we repaired in the night, thickning the Rampart aſmuch as the ſmall<g ref="char:EOLhyphen"/>neſſe of our work would admit, and ſtrengthned the weak<g ref="char:EOLhyphen"/>eſt places with Woolſackes; The next day they continued their Battery till noone, with too much ſucceſſe, yet ſo as no conſiderable breach was made that day: the enemy whither they had intelligence of the want of proviſions and Ammunition in the Fort, about one of the clock fell on with horſe and Foot on our Half-moons &amp; Line, where we had reaſonable guard: but tired with eight daies duty and long watching, after an hours skirmiſh were enforced to re<g ref="char:EOLhyphen"/>treat from the Half-moon and Breaſt work, and were taken by the enemies Horſe who came on the backs of them.</p>
+            <p>The Captaine of the Fort having but ſeven men of thirty-ſix left to mannage the Gunnes, ſeeing himſelf thus ſurrounded by the enemy, whereby no reliefe of provi<g ref="char:EOLhyphen"/>ſions or Ammunition could be brought him from the Towne; and upon examination finding but two barrels of
+<pb n="5" facs="tcp:111213:5"/>good powder, and a ſmall quantity of Caſe ſhot with him; and no proviſions, and having held off the ene<g ref="char:EOLhyphen"/>my ſome two houres, and given a ſigne to the Towne by hanging our a Wift, that he was in diſtreſſe, and no re<g ref="char:EOLhyphen"/>liefe came; and the Townſmen for ſome reaſons which you ſhall hear anon, being unwilling to go over, and Collonell <hi>Goulds</hi> Regiment being thoſe that were tired, and put to the retreate, unfit to encounter the enemies whole army that were freſh and victorious. The Captain yeelded the Fort on compoſition about four of the clock, upon conditions, that he ſhould march of with Colours flying, matches lighted, Buller in mouth, and a Demy-Culverin the beſt in the worke, with bagge and baggadge, and that the enemy ſhould exchange all the priſoners they had taken of ours that day, being about fourtie, for the like number of their priſoners with us, which the next day was effected accordingly; but we are unwilling to let the world know by whoſe Treachery, at leaſt neglect, this Fort was loſt, for want of convenient quantities of Ammunition and proviſion. While the enemie was buſie about Mount<g ref="char:EOLhyphen"/>ſtanford, we had begun to raiſe a worke upon How<g ref="char:EOLhyphen"/>ſtart, where our men retreated after they were beaten from Mount Stanford, which being unfiniſhed, and the ſame wearied men enjoyned to keep it till the morning (for we had no other, the Townſmen refuſing to give over) poſ<g ref="char:EOLhyphen"/>ſeſſed with feare of the enemies Horſe quited that place alſo, which the enemy ſoon after ſeized upon, and have there built a Fort and divers Batteries to hinder Shipping from coming into the Habour, and others to ſhoot into the Towne, and at our windmill on the Hoe. But notwith<g ref="char:EOLhyphen"/>ſtanding they have done no harme to any Ship or boat that hath paſſed in or out for theſe two monethes paſt, nor hath
+<pb n="6" facs="tcp:111213:6"/>and ſhot of the many hundreds they have ſent into the Towne, from thence, done the leaſt hurt to man, woman, or childe, (except one woman hurt in the arme with a ſtone) and but little to the houſes, ſave that they ſhot off one vane of the Windmill which was preſently new grafted; ſo that by experience we finde, that the loſſe of Mount-Stan<g ref="char:EOLhyphen"/>ford, was the wonderfull providence and goodneſſe of God towards us, which had we kept, we muſt neceſſarily have loſt the beſt of our ſtrength in the defence of it, and ha<g ref="char:EOLhyphen"/>ving loſt it, we finde ſmall dammage by it, our Ships being beaten out of Catwater before we loſt Mountſtandford by the enemies Cannon planted at Oſan, and by a Batterie un<g ref="char:EOLhyphen"/>der Mount-Edgecombe on the other ſide, from riding be<g ref="char:EOLhyphen"/>tween the Iland and the Main, ſo that we were faine to take Mill-Baye for ſanctuary: nay rather the loſſe of that was infinitely advantagious unto us, in the neerer uniting of our ſmall ſtrength for the defence of the Towne, and the offering an opportunity to us to ſeize upon the Fort and Iſland, the moſt conſiderable ſtrengths, in the King<g ref="char:EOLhyphen"/>dome, which then were utterly deſtitute of proviſion, Am<g ref="char:EOLhyphen"/>munition, or any thing elſe neceſſary for the defence of them, of which neglect, and the authors of it, account may be given to the Parliament in due time: for in the very inſtant of the loſſe of Mount-Stanford, while all men ſtood in doubt of the iſſue, Colonell <hi>Gould</hi> by order from Colo<g ref="char:EOLhyphen"/>nell <hi>Wardlaw,</hi> Commander in chiefe, tooke poſſeſſion of both thoſe places, and afterwards ſetled ſtronger Gariſons with ſtore of proviſion and Ammunition of all ſorts in the ſaid Fort and Iſland. The ſecuring whereof, and at the re<g ref="char:EOLhyphen"/>queſt of the well affected of the Towne, of four deputy Lieutenants in them, of whoſe unfaithfulneſſe to the State the Townſmen had great ſuſpition, we have found ſince to
+<pb n="7" facs="tcp:111213:6"/>have been a moſt effectuall meanes, under God, to preſerve the Towne. For theſe perſons and places being ſecured and victualled, the Towne, which before was altogether divided and hartleſſe in its defence; now grew to be united with a Reſolution to ſticke by us in the defence thereof, partly our of fear, knowing that the Fort and Iland would be goades in their ſid<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, if the Towne ſhould be loſt; but eſpecially from their aſſurance of our reall intention to defend the Towne to the laſt man, by the ſecuring of thoſe four deputie Lieutenants whom they ſuſpected, and by the many aſſeverations and reſolutions of the officers, that they would, when they could defend the Towne no longer, burn it to aſhes, rather then the enemies of God and his cauſe ſhould poſſeſſe it: which reſolution of theirs they confirm<g ref="char:EOLhyphen"/>ed, by joyning with us in a ſolemne Vow and Covenant for the defence of the Towne. A copie whereof is annexed to the end of this relation.</p>
+            <p>The Enemy thus poſſeſſed of Mount-Stanford, accoun<g ref="char:EOLhyphen"/>ting now all to be his owne, ſends a Trumpet to us with a Summons, a Coppie whereof alſo followeth at the end, which was anſwered by ſilence.</p>
+            <p>The ſame day Mount Stanford was taken, the Enemy made an attempt upon Lypſon worke, but were repulſe, with loſſe.</p>
+            <p>The eleventh of November a party of Horſe and Muſ<g ref="char:EOLhyphen"/>quetires were commanded out to Thorne-hill to guard in Wood and Hay; but they tranſgreſſed their order, and purſued ſome of the enemies Horſe to Knockers-hole, kil<g ref="char:EOLhyphen"/>led a Captaine and ſome common Troopers, and tooke ſome priſoners; but ſtaying too long, drew the maine bo<g ref="char:EOLhyphen"/>dy of the Enemies horſe upon them, and Major <hi>Leyton</hi> ſtri<g ref="char:EOLhyphen"/>ving to make good their retreat, was taken in the Reare, af<g ref="char:EOLhyphen"/>ter he had received five wounds.</p>
+            <pb n="8" facs="tcp:111213:7"/>
+            <p>And now the Enemy having refreſht his men, and ha<g ref="char:EOLhyphen"/>ving ſecured his new gotten purchaſe, about the ſixteenth of November ſits downe on the North ſide of our Towne, we in the meane time being buſied in mending up ſome Hedges that were formerly pulled downe betweene the Workes; the only Line of Communication we yet have ſcarce defenſible againſt the ſtormings of Horſe, yet ſuch places we muſt now reſolve to defend upon equall termes with the Enemy; for the Workes are of ſuch a diſtance each from other, and the grounds ſo uneven, that an enemy may in ſome places approach within the workes, without any moleſtation by them.</p>
+            <p>On the twenty eighth of November the enemy planted his battery againſt Lypſon worke, but could not approach within Muſquet ſhot to batter our Worke, in regard of a deepe Valley betweene, by reaſon whereof, after three dayes battery they did little execution on our worke.</p>
+            <p>About this time, one <hi>Ellis Carkeet</hi> a malignant Mari<g ref="char:EOLhyphen"/>ner was accuſed and laid faſt, for tampering with <hi>Roger Kneebone</hi> the chiefe Gunner at Maudline Worke, to blow up the ſaid worke, the powder roome being buryed in it, and he having the keyes, which was diſcovered by the ſaid <hi>Kneebone,</hi> after he had concealed it diverſe dayes, God not ſuffering his conſcience to give him reſt till he had revea<g ref="char:EOLhyphen"/>led it. Upon the apprehenſion of <hi>Carkeete,</hi> two notorious Malignants, <hi>Henry Pike</hi> a Vintner, and <hi>Moſes Collins</hi> an Attourney, conceived to be privie to his treaſon, fled to the Enemy. And upon the third of December, being the Lords day, the enemy (as is credibly informed) guided by theſe two Renegadoes with foure hundred Muſquetires three houres before day, ſurprized our guard at Lary point, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd in it three peeces of Ordnance. The worke is but a
+<pb n="9" facs="tcp:111213:7"/>Halfe Moone, and the guard there placed only to give the Alarme, if the enemy ſhould approach Lare-Point over the ſands when the tyde is out. By which meanes the enemie comming on under Lipſon-worke (being a falſe varable ground to them by reaſon of its ſteepneſſe,) and comming on the back of our guard, eaſily ſurprized it; the Alarme being given to the Towne, and one hun<g ref="char:EOLhyphen"/>dred and fifty Horſe and three hundred Muſquetires at break of day ready to fall on upon the Enemie that were poſſeſt of our worke; which the enemy at Mount Stan<g ref="char:EOLhyphen"/>ford perceiving (for we fell on upon the South ſide of the hill that was from the enemies view) gave the maine body of the enemie that was at Compton all in armes, a Warning-piece; upon which, Prince <hi>Maurice</hi> and all the gallantry of their armie, with five Regiments of Horſe and foure of Foot (having in the night made their way with Pioneers) advanced under protection of their owne Ordnance, and a hedge which they poſſeſt, where we uſually had our Centries, and where ſince we have built a Worke under Lypſon, to the aſſiſtance of thoſe who in the night had ſurprized our guard, we were in hope to have beaten off the enemie before their ſeconds came up; and with Horſe and Foot falling reſolutely on them, met with ſtrong oppoſition, and Captaine <hi>Wanſey</hi> a gallant man, charging at a gap which former<g ref="char:EOLhyphen"/>ly he knew to be open; but now made up by the enemie, was unfortunately ſlaine; which made our Horſe give ground, and both Horſe and Foot after to an abſolute Rout for three fields together: at which time ſome of the enemies Horſe mixt themſelves with ours, and came within Piſtoll ſhot of the wals and were killed or taken. When a ſtand being made upon the height of the Hill
+<pb n="10" facs="tcp:111213:8"/>above Lypſon-worke, and freſh men being drawne from ſeverall guards, our men being encouraged, we held our ground for foure houres. During which time, our ſhip at Lare-point, ſeeing our Guard there taken, entertai<g ref="char:EOLhyphen"/>ned a Parley with the enemy, and ſo ſtood Newrers till we had beaten the enemy to a retreat, for which, ſome of them are in queſtion for their life. The enemy likewiſe ſent a Trumpet to Lypſon worke to ſummon it, and was anſwered with the Cannon after the Trumpet was com<g ref="char:EOLhyphen"/>manded to depart. And wee having gotten a ſmall Drake planted in the croſſe way, diſcharged it foure or five times on the enemies Horſe with good execution; and giving a ſigne by the found of a Drumme, when our ſeverall commanded places ſhould fall on, the enemy began to give ground, and ſome two Hundred Muſque<g ref="char:EOLhyphen"/>tires of the Trained bands of the Towne being come to our aſſiſtance, and a party of ſome ſixty Muſquetires ſent about to play on the backes of the enemies, was no ſooner perceived by the enemy, but he commanded a retreat, which was followed ſo cloſe by us, that it was little better then a haſty flight; for retreating moſt part over the Lare, and not the ſame way they came on, their Reare gard of Horſe of about one hundred being cut off from their way of retreat, were forced into the Mudde, betweene Lypſon Worke and Lare-point, and the Horſe were almoſt all taken or drowned when the Sea came in, ſome of the Riders crawling through the Mud, hardly eſcaped; many of the enemy were killed in their retreat by our horſe and foot, and by the ſhip at Lare-point, who then grew honeſt againe: of priſoners wee tooke a Captaine-Lieutenant of Horſe, and one <hi>Langs<g ref="char:EOLhyphen"/>ford</hi> a Prieſt, that was a Captaine, and ſome thirty com<g ref="char:EOLhyphen"/>mon
+<pb n="11" facs="tcp:111213:8"/>ſouldiers, and thirteene barrels of Powder, two Teames of Horſes with furniture, by which they were drawing up our Ordnance againſt us. Of ours, the ene<g ref="char:EOLhyphen"/>my tooke in our firſt retreat, Captained Lieutenant <hi>Ro<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> Lieutenant <hi>Vpton,</hi> Enſigne <hi>Crocker,</hi> and <hi>Francis Rolles</hi> Enſigne, and about forty common men, beſides Cap<g ref="char:EOLhyphen"/>taine <hi>Wanſey,</hi> and about twelve more killed, and a hun<g ref="char:EOLhyphen"/>dred more wounded, of whom, ſome are ſince dead: Colonell <hi>Gould</hi> had one horſe killed under him, and a<g ref="char:EOLhyphen"/>nother ſhot, but he mercifully preſerved. The Lord ſhewed himſelfe wonderfully in our deliverance, in that when the enemy had gotten a ground of advantage, and were tenne to one againſt us, yet was pleaſed by our handfull to drive them backe another way then they came. For had the enemy poſſeſt the ground that they had gotten that night, the next day they would have been maſters of all Cat-downe, and then we muſt have quit<g ref="char:EOLhyphen"/>ted our Out-workes as unuſefull to us, and have betaken our ſelves to the Towne walls, which then were not ful<g ref="char:EOLhyphen"/>ly finiſhed, and could not long have been defended. The ſame day, the enemy with horſe and foote aſſaulted Penny-come-quick-works and were repulſed with much loſſe.</p>
+            <p>The enemy being thus repulſed, ſuffered us to be qui<g ref="char:EOLhyphen"/>et (as his uſuall manner was) for 15 or 20 daies after: in the meane time gathering up his routed Troopes, ſave that one night he fel on upon a work we were raiſing un<g ref="char:EOLhyphen"/>der Lypſon, called in the Mappe Lypſon-Mill worke, for the prevention of the enemies incurſion againe that way, and partly ſlighted it, our guard there quitting it without a ſhot; from which they were ſuddenly beaten againe and the worke re-edified. It were endleſſe to ac<g ref="char:EOLhyphen"/>quaint
+<pb n="12" facs="tcp:111213:9"/>you with the ſervall light Skirmiſhes, that daily paſt betweene us, ſometimes about our cattell that ſtragled without our workes, at other times, to paſſe time by bravadoes and ambuſcadoes made by our guards to entrappe the enemie. And now the enemy finding his Battery againſt Lypſon, and his intent to poſſeſſe himſelfe of Lare-point ſuceeſſeleſſe, he takes about and beginnes to make his approaches againſt Maudlin work, we in the meane time thickning that worke within to make it proofe, and finding their Batteries planted with<g ref="char:EOLhyphen"/>in Muſquet ſhot of our worke, we planted a platforme cloſe by Maudlin worke, and drew out a Demy-Cannon which was taken in a prize that was going to the Rebells in <hi>Ireland,</hi> to counter-batter againſt them, intending to have planted another, if it had been needfull. Upon the eighteenth of December the enemy began to Batter, but by reaſon of our counter-Batterie which played con<g ref="char:EOLhyphen"/>ſtantly into their worke through their ports, whereby their men could not ſtand ſafely by their Ordance, we having the advantage in playing downe into them from a commanding ground; The enemy in two dayes time, could do no good with his Batterie: but on Wedneſday night the twentieth of December through the careleſnes of the Captaine of that guard, that ſet out centries per<g ref="char:EOLhyphen"/>due, it being a wet and darke night, the enemie raiſed a ſquare worke with the helpe of a corner of a field, with<g ref="char:EOLhyphen"/>in piſtoll ſhot of Maudlin worke, almoſt in a direct line between that and Pennicom-quick, which if they had held, might have cut us off from the reliefe of that worke, &amp;c.</p>
+            <p>Thurſday in the morning the twenty firſt day of De<g ref="char:EOLhyphen"/>cember, aſſoone as it was diſcovered, the ordinary guardes
+<pb n="13" facs="tcp:111213:9"/>there, being ſome threeſcore men, fell on in hope to have regained it without any more helpe. But found their worke guarded with two or three hundred men, and ſo were faine to retreat untill ſupply came from the Towne.</p>
+            <p>And then about nine of the clock in the morning, having Horſe and Foot in a readineſſe, we fell on upon their worke, and received the repulſe twiſe, once after we had gained the worke, but our men heartned with the aſſiſtance of ſome freſh men, and backt with moſt of the ſtrength we could make, fell on, tooke, and ſlighted the enemies work, took priſoners a Captaine, Prince <hi>Maurices</hi> Trumpeter, and ſome few others more, and killed that day neer a 100 men, there were taken of ours by the enemy Lieutenant <hi>William Harwar,</hi> and two more ſurrounded by the enemies Horſe in one place, and as many in another: we had twenty men killed in the place whereof Enſigne <hi>Grimes</hi> was one, and ſome four<g ref="char:EOLhyphen"/>ſcore wounded, whereof Engſigne <hi>Samuel Horte,</hi> and ſome others are ſince dead, upon the enemies retreat we could hardly diſſwade our Souldiers from falling on their workes to gaine their Ordnance. But we had too few men to adventure upon ſo hazardous a deſigne.</p>
+            <p>The next day we could ſee the enemy preparing to draw off their Ordnance, and on Chriſtmas day the twen<g ref="char:EOLhyphen"/>tie-five of December in the morning, they drew off their guards from about us, being the ſame day that Prince <hi>Maurice</hi> promiſed his Souldiers they ſhould be in Ply<g ref="char:EOLhyphen"/>mouth.</p>
+            <p>That day <hi>Thomas Baſſet</hi> Major Generall to the ene<g ref="char:EOLhyphen"/>my, called to an Officer of ours that was in their worke, and told him that he thought God fought againſt them,
+<pb n="14" facs="tcp:111213:10"/>and ſaid, if he could be convinced that he was not in the right, he would hang himſelfe at his doore erre he would take up armes again in that quarrell.</p>
+            <p>The next day after, the enemy riſing from before us, part of two of our workes fell downe, which might have indangered the loſſe of them, if they had continued their ſeige.</p>
+            <p>The enemy now quarter at Taveſtock and Plympton, to refreſh their men, and to recrute for a fourth ſeige, and for the preſent they blocke us up from proviſion, having driven all the country before them of all ſorts of cattell, ſo that we cannot ſubſiſt long unleſſe ſtore of all ſorts of proviſions be ſent us.</p>
+            <p>But if we may have a conſiderable ſupply of men, Money, Armes for Horſe and Foot, ſent us with ſpeed, by Gods aſſiſtance we may be able to take the field, for all the Countrey is inclined to us, which opportunitie we hope the Parliament will not neglect.</p>
+            <p>One remarkable paſſage of Gods providence to us, we muſt withall thankfulneſſe remember and acknow<g ref="char:EOLhyphen"/>ledge, that after the Towne had been a long time ſtrictly beſeiged, and no freſh victuall either fleſh or fiſh, could be had, whereby the poore people were grievouſly puniſhed, there came in an infinite mul<g ref="char:EOLhyphen"/>titude of Pilchards into the Habour within the Bar<g ref="char:EOLhyphen"/>bicon, which the people tooke up with great eaſe in baskets, which did not onely refreſh them for the pre<g ref="char:EOLhyphen"/>ſent, but a great deale more were taken, preſerved, and ſalted; whereby the poore got much Money, ſuch a paſſage hath not happened before.</p>
+            <p>We cannot forget the humanity of the good wo<g ref="char:EOLhyphen"/>men of Plymouth, and their courage in bringing out
+<pb n="15" facs="tcp:111213:10"/>ſtrong waters, and all ſorts of proviſions in the midſt of all our skirmiſhes for refreſhing of our Souldiers, though many ſhot through the cloathes.</p>
+            <p>We cannot omit to ſet downe alſo how that in few dayes after our firſt arrivall here, one <hi>Sampſon Hele,</hi> Eſquire: came in a meſſage to this Towne, from the Prince, to perſwade the yeelding of it: But coming without Drumme or Trumpet, for his offence, hee was perſwaded to yeeld us two thouſand pounds for the payment and cloathing of our Souldiers, with<g ref="char:EOLhyphen"/>out which wee could not poſſibly have ſubſiſted ſo long. The enemies word in this laſt fight was, <hi>(The Towne is ours)</hi> and our word was, <hi>(God with us.)</hi>
+            </p>
+            <p>We had upon the loſſe of Mount-Stanford a day of Humiliation, and upon Gods deliverance of us, at Lare point a day of Thankſgiving, and another ſince the ſeige was raiſed. The chiefe commanders before us, were, Prince <hi>Maurice,</hi> The Earles of <hi>Marleborough,</hi> and <hi>Newport,</hi> The Lord <hi>Mohun,</hi> Lieutenant Generall <hi>Wag<g ref="char:EOLhyphen"/>ſlaffe,</hi> Major Generall <hi>Baſſet,</hi> Sir <hi>Thomas Hele,</hi> Sir <hi>Edmund Forteſcue,</hi> Sir <hi>Iohn Grenvile,</hi> Sir <hi>Richard Cave,</hi> Sir <hi>Iames Coburne,</hi> Sir <hi>Iohn Digby,</hi> Sir <hi>Peter Courtney,</hi> Sir <hi>William Courtney,</hi> and divers other conſiderable per<g ref="char:EOLhyphen"/>ſons, many of whom, aſwell as of the common Soulders, are ſince either dead or deſperately ſicke.</p>
+            <closer>
+               <signed>
+                  <hi>William Gould,</hi> Colonell. <hi>Michael Serle,</hi> Lieutenant Colonell. <hi>Nathaniel Willis,</hi> Serjeant Major.
+<list>
+                     <head>Captaines.</head>
+                     <item>
+                        <hi>Thomas Hallſey.</hi>
+                     </item>
+                     <item>
+                        <hi>Samuel Bertch.</hi>
+                     </item>
+                     <item>
+                        <hi>Gabriel Barnes.</hi>
+                     </item>
+                     <item>
+                        <hi>William Wotton.</hi>
+                     </item>
+                     <item>
+                        <hi>Henry Plumley.</hi>
+                     </item>
+                     <item>
+                        <hi>William Hill.</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Hughes.</hi>
+                     </item>
+                     <item>
+                        <hi>Robers Northcote.</hi>
+                     </item>
+                     <item>
+                        <hi>Henry Potter.</hi>
+                     </item>
+                     <item>
+                        <hi>Humphrey Barton.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="16" facs="tcp:111213:11"/>
+            <head>To the <hi>Major</hi> and <hi>Governour</hi> of the Towne of <hi>Plymouth.</hi>
+            </head>
+            <p>THat you may ſee our hearty deſires of a juſt Peace, We doe Summon you in his Majeſties name, to ſurrender the Towne, Fort, and Jland of <hi>Plymouth,</hi> with the warlike proviſions thereunto be<g ref="char:EOLhyphen"/>longing, into Our hands for his Majeſties uſe: And We do hereby aſſure you, by the power derived to Vs, from his Majeſtie, upon the performance here of, of a gene<g ref="char:EOLhyphen"/>rall Pardon for what is paſt: And in<g ref="char:EOLhyphen"/>gage Our Selves in Our Honour, to ſecure your perſons and eſtates, from all violence and plunder. We have now quitted Our
+<pb n="17" facs="tcp:111213:11"/>Selves on Our parts; and let the blood that ſhall be ſpilt in the obtaining of theſe juſt demands (if denied by you) be your guilt.</p>
+            <closer>
+               <dateline>
+                  <hi>Given under Our hands at</hi> Mount Stanford <date>
+                     <hi>the 18 day of November,</hi> Anno Dom. <hi>1643.</hi>
+                  </date>
+               </dateline>
+               <signed>Iohn Digby. Thomas Baſſet. Peter Killigrew. Io. Wagſtaffe. Ionathan Treleany. R. Prideaux. Iohn Arundell. Tho. Monke. Will. Arundell. Iohn Downing. Tho. Stucley.</signed>
+            </closer>
+         </div>
+         <div type="declaration">
+            <head>PLYMOUTH the 4 of Novemb. 1643.</head>
+            <p>IT is this day Ordered by the Councell of War, That this Vow and Proteſtation as followeth, be openly publiſhed in the Aſſemblies by the Miniſters of this Towne, to morrow, being the fifth of <hi>November,</hi> 1643. And that it may be preſented particularly to all Of<g ref="char:EOLhyphen"/>ficers and Souldiers, Inhabitants and Strangers, of the Townes and Garriſons of <hi>Plymouth</hi> and <hi>Stonehouſe,</hi> the Fort and Iland: And that eſpeciall notice be taken of all ſuch as ſhall refuſe to take the ſaid Vow and Prote<g ref="char:EOLhyphen"/>ſtation, Which is as followeth.</p>
+            <pb n="18" facs="tcp:111213:12"/>
+            <q>
+               <p>I <hi>A. B.</hi> in the preſence of Almighty God do Vow and proteſt, that I wil to the utmoſt of my power faithful<g ref="char:EOLhyphen"/>ly maintain and defend the Townes of Plymouth, Stone-Houſe, the Fort and Iland withall the out workes and Fortifications to the ſame belonging, againſt all Forces now raiſed againſt the ſaid Townes, Fort and Iland or any part thereof, or that ſhall be raiſed by any power or Authoritie whatſoever, without the conſent and authority of both Houſes of Parliament, neither will I by any way or meanes whatſoever, contrive or conſent to the giving up of the Townes and Fortifications afore<g ref="char:EOLhyphen"/>ſaid, or any parcell of them, into the hands of any perſon or perſons whatſoever, without the conſent of both Hou<g ref="char:EOLhyphen"/>ſes of Parliament, or of ſuch as are authorized thereunto by them: neither will I raiſe nor conſent to the raiſing of any Force or tumult, nor will I by any way or meanes give or yeeld to the giving of any advice, counſell, or intelligence to the prejudice of the ſaid Townes and Fortifications, either in whole, or im part, but will withall faithfully diſcover to the Major of Plymouth and to the Commander in chiefe there, whatſoever de<g ref="char:EOLhyphen"/>ſigne, I ſhall know or hear of hurtfull thereunto. Nei<g ref="char:EOLhyphen"/>ther have I accepted any pardon or protection, nor will accept any protection from the enemie. And this Vow and Proteſtation I make, without any equivocation and mentall reſervation whatſoever: beleeving, That I cannot be abſolved from this my Vow and Proteſtation, and wiſhing no bleſſing from God on my ſelfe or my poſteritie if I do not truely and ſincerely performe the ſame. So hope me God.</p>
+            </q>
+         </div>
+         <div type="warrant">
+            <pb n="19" facs="tcp:111213:12"/>
+            <head>Prince Maurice HIS WARRANT Since the Raiſing of the Siege. To the Conſtables of <hi>Egbuckland;</hi> and after notice taken of Publiſhing, To the Conſtables or Tythingmen of St. <hi>Budeaux,</hi> there to be Publiſhed.</head>
+            <p>FOr as much as divers perſons diſaffected to his Majeſties ſervice, make their daily recourſe into Plymouth, furniſhing the Rebels there with all manner of proviſion for Man and Horſe, contrary to his Majeſties Pro<g ref="char:EOLhyphen"/>clamation, prohibiting the ſame: theſe are therefore ſignifying, That if any perſon of what degree or quality, doe ever preſume to have any commerce or dealing with any in the ſaid Towne of Plymouth, or otherwiſe; ſend into the ſaid Towne, or take, or carry with him any
+<pb n="20" facs="tcp:111213:13"/>Horſes, Oxen, Kine, ſheepe, or other proviſion for Men or Horſe into the ſaid Towne of Ply<g ref="char:EOLhyphen"/>mouth, for the reliefe of the Rebels there; every ſuch perſon and perſons ſhall be procee<g ref="char:EOLhyphen"/>ded againſt both in perſon and eſtate as Abet<g ref="char:EOLhyphen"/>tors of this horrid Rebellion, and contem<g ref="char:EOLhyphen"/>ners of his Majeſties Proclamation, accor<g ref="char:EOLhyphen"/>ding to the limitation of the Court of Warre in ſuch caſes provided. Willing and requi<g ref="char:EOLhyphen"/>ring all Majors, Bayliffes, Juſtices of the peace, Conſtables, and all other of his Majeſties Of<g ref="char:EOLhyphen"/>ficers and Miniſters, to cauſe this to be forth<g ref="char:EOLhyphen"/>with publiſhed in all Churches, Chappels, Markets, or other places; whereby his Maje<g ref="char:EOLhyphen"/>ſties loving Subjects may the better take notice hereof.</p>
+            <closer>
+               <signed>Maurice.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="imprimatur">
+            <p>Ordered to be printed.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
